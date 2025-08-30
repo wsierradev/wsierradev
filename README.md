@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm William Sierra 👋
 
-<!--
-**wsierradev/wsierradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer • Instructor**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+Passionate about learning, teaching, and personal growth, I thrive at the intersection of code and community. Whether I'm building full-stack applications, mentoring the next generation of developers, or exploring new technologies, I love turning curiosity into action.
+
+## 🛠️ Tech Stack
+
+- **Languages & Frameworks:** Rails, React/Redux, Python
+- **Frontend:** Tailwind CSS, Bootstrap, jQuery
+- **Database:** PostgreSQL
+
+## 🚀 Featured Projects
+
+- **Billion**  
+  *WYSIWYG Website Builder leveraging ChatGPT API*  
+  Empowering users to create beautiful, functional websites with the power of AI.
+
+- **5Voices**  
+  *Wellness Platform leveraging Myers-Briggs for Personalized Insights*  
+  Helping people understand themselves and grow through thoughtful assessments and tailored guidance.
+
+## 🎲 Fun Facts
+
+- I love board games—strategy, storytelling, or just a good laugh!
+- Enjoy spending quality time with friends and family.
+
+## 🗣️ Let's Connect!
+
+Feel free to reach out if you want to collaborate, learn together, or just geek out over tech and teaching.
+
+---
+
+*Thanks for stopping by!*
